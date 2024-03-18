@@ -878,9 +878,9 @@ section {
 
 .contact .info p {
   padding: 0 0 10px 60px;
-  margin-bottom: 20px;
-  font-size: 14px;
-  color: #173b6c;
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 5px;
 }
 
 .contact .info .email p {
